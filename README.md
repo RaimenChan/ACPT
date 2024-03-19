@@ -1,5 +1,5 @@
 # ACPT
-Auto Crop Plate Test Image
+Auto Crop Plate Test Images
 
 # install the required packages
 ```
